@@ -51,7 +51,9 @@ Research Experience
 Interests
 ======
 Development of infant self-knowledge
+
 Early life experiences and cognitive development
+
 Brain networks during cognitive control
 
 

@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Psychology, University of Oregon, 2009
+* M.S. in Cognitive Neuroscience, Tulane University, 2016
+* Ph.D in Developmental Psychology, Tulane University, 2019
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2020-Present: Postdoctoral Fellow
+  * GENES:IS Lab
+  * Texas Institute of Measurement, Evaluation, and Statistics
+  * University of Houston
+  * PI: Dr. Elena L. Grigorenko
 
-* Fall 2015: Research Assistant
-  * Github University
+* May 2019-January 2020: Research Scientist
+  * Infant and Toddler Development Project
+  * Tulane University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * PI: Dr. Jeffrey J. Lockman 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2013-2019: Graduate Research Assistant
+  * Infant and Toddler Development Project and Golob Cognitive Neuroscience Lab
+  * Tulane University
+  * PIs: Dr. Jeffrey J. Lockman & Dr. Edward J. Golob
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2012-2013: Research Assistant Volunteer
+  * ADHD Lab
+  * Oregon Health and Science University
+  * PI: Dr. Joel Nigg
+
+* 2009: Research Assistant
+  * Oregon Research Institute
+  * Supervisor: Dr. Anthony Biglan
+
+* 2007-2010: Research Assistant
+  * Theory of Mind Lab
+  * University of Oregon
+  * Supervisors: Drs. Louis Moses and Tasha Oswald
   
-Talks
+Interests
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Development of infant self-knowledge
+Early life experiences and cognitive development
+Brain networks during cognitive control
+
+
+

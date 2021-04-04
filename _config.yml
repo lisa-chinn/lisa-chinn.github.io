@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Lisa K. Chinn"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoc at the Texas Institute for Measurement, Evaluation, and Statistics"
   location         : "Houston, TX"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hkLUVQYAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Lisa-Chinn"
   uri              :
   bitbucket        :
   codepen          :

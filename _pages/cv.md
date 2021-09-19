@@ -27,22 +27,22 @@ Research Experience
  * PI: Dr. Jeffrey J. Lockman 
   
 **2013-2019: *Ph.D. Student*, Tulane University, Infant and Toddler Development Project and Golob Cognitive Neuroscience Lab**
-  * PIs: Dr. Jeffrey J. Lockman & Dr. Edward J. Golob
+  * PIs: Drs. Jeffrey J. Lockman & Edward J. Golob
 
 **2012-2013: *Research Assistant Volunteer*, Oregon Health and Science University, ADHD Lab**
   * PI: Dr. Joel Nigg
 
 **2009: *Research Assistant*, Oregon Research Institute**
-  * Supervisor: Dr. Anthony Biglan
+  * PI: Dr. Anthony Biglan
 
 **2007-2010: *Research Assistant*, University of Oregon, Theory of Mind Lab**
-  * Supervisors: Drs. Louis Moses and Tasha Oswald
+  * PIs: Drs. Louis Moses and Tasha Oswald
   
 Interests
 -----
 ***
-Development of infant self-knowledge  
 Early life experiences and cognitive development  
+Development of infant self-knowledge  
 Brain networks during cognitive control
 
 

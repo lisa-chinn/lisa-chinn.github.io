@@ -12,10 +12,8 @@ redirect_from:
 Education
 -----
 ***
-Ph.D in Developmental Psychology, Tulane University, 2019 
-
-M.S. in Cognitive Neuroscience, Tulane University, 2016 
-
+Ph.D in Developmental Psychology, Tulane University, 2019  
+M.S. in Cognitive Neuroscience, Tulane University, 2016  
 B.S. in Psychology, University of Oregon, 2009 
 
 Research Experience
@@ -43,10 +41,8 @@ Research Experience
 Interests
 -----
 ***
-Development of infant self-knowledge
-
-Early life experiences and cognitive development
-
+Development of infant self-knowledge  
+Early life experiences and cognitive development  
 Brain networks during cognitive control
 
 

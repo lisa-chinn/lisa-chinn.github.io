@@ -12,9 +12,11 @@ redirect_from:
 Education
 -----
 ***
-* Ph.D in Developmental Psychology, Tulane University, 2019
-* M.S. in Cognitive Neuroscience, Tulane University, 2016
-* B.S. in Psychology, University of Oregon, 2009
+Ph.D in Developmental Psychology, Tulane University, 2019 
+
+M.S. in Cognitive Neuroscience, Tulane University, 2016 
+
+B.S. in Psychology, University of Oregon, 2009 
 
 Research Experience
 -----

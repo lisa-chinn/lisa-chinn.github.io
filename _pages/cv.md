@@ -11,14 +11,12 @@ redirect_from:
 
 Education
 -----
-***
 Ph.D in Developmental Psychology, Tulane University, 2019  
 M.S. in Cognitive Neuroscience, Tulane University, 2016  
 B.S. in Psychology, University of Oregon, 2009 
 
 Research Experience
 -----
-***
 **January 2020-Present: *Postdoctoral Fellow*, University of Houston, GENES:IS Lab**
  * Texas Institute for Measurement, Evaluation, and Statistics
  * PI: Dr. Elena L. Grigorenko
@@ -40,7 +38,6 @@ Research Experience
   
 Interests
 -----
-***
 Early life experiences and cognitive development  
 Development of infant self-knowledge  
 Brain networks during cognitive control
